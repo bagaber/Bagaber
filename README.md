@@ -1,2 +1,0 @@
-# Bagaber-s
-My Repository
